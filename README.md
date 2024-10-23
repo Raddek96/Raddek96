@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @Raddek96
+# 👋 Hi, I’m Radek
+
+
 - 👀 I’m interested in new technologies
 - 🌱 I’m currently learning web development
 
